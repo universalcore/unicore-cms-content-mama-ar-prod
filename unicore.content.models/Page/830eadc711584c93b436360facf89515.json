@@ -4,17 +4,19 @@
   "language": "spa_AR", 
   "title": "Mes 7 ", 
   "primary_category": "3fb210740bdf4545b985e2f7040d9ba4", 
-  "created_at": "2015-01-28T10:07:02.537980+00:00", 
+  "created_at": "2015-01-28T10:07:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-28T10:07:02.538169+00:00", 
+  "modified_at": "2015-01-28T10:10:12.168216+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "40acc10b78f543f08bc42755bd741f17"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nAhora tu beb\u00e9 puede abrir los ojos y mover su cabecita hacia la luz, \u00a1incluso en la matriz! Puede o\u00edr y podr\u00eda patear y saltar al escuchar sonidos fuertes, y calmarse cuando le hables y le cantes. \r\n\r\nPronto estar\u00e1 con la cabeza hacia abajo, dentro de vos, para que al nacer, salga primero su cabecita. Colocado de esta manera, el beb\u00e9 estar\u00e1 listo para que comience lo que se conoce como trabajo de parto.\r\n\r\nAl ir creciendo tu panza, podr\u00eda ser dif\u00edcil sentirte c\u00f3moda y dormir bien. Acostate de costado y coloc\u00e1 una almohada entre tus piernas para que se apoye tu panza. Podr\u00edas empezar a sentir algo de dolor en las caderas, porque el tejido el\u00e1stico que une tus caderas a tu pelvis puede aflojarse. Esto es para preparar tu cuerpo para el parto. Ponerte en una posici\u00f3n \u201ca cuatro patas\u201d podr\u00eda ayudar.\r\n\r\nEs importante que hag\u00e1s un plan para ir a la partera o al doctor cuando comience tu trabajo de parto. Ten\u00e9s que saber con tiempo c\u00f3mo vas a ir. Pod\u00e9s pedir a una amiga o parientes que te ayuden en esto.  Habl\u00e1 con tu familia y asegurate bien d\u00f3nde vas a ir cuando llegue el momento.\r\n\r\nCuando ya est\u00e9 avanzado tu embarazo, acercate a la cl\u00ednica, o donde haya profesionales de la salud, para que te atiendan y se aseguren que est\u00e9n bien vos y el beb\u00e9. Ellos te van a decir lo que necesitar\u00e1s para el nacimiento y te informar\u00e1n sobre el trabajo de parto, que es el momento en que ten\u00e9s que acudir a la cl\u00ednica para que nazca el beb\u00e9.\r\n", 
   "source": "c5768f1dd8bd4ec18d2ffd0b95e4b371", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mes-7_Ar_spa", 
   "uuid": "830eadc711584c93b436360facf89515"
