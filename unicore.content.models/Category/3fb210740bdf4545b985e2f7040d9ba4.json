@@ -1,0 +1,20 @@
+{
+  "subtitle": "Embarazo Ar spa", 
+  "uuid": "3fb210740bdf4545b985e2f7040d9ba4", 
+  "language": "spa_AR", 
+  "title": "Embarazo", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Embarazo_Ar_spa", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
