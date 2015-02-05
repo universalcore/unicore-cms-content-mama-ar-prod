@@ -6,16 +6,17 @@
   "primary_category": "d622206adaaa4a8bb39deadf93223d71", 
   "created_at": "2015-01-28T10:50:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-28T10:53:48.708926+00:00", 
+  "modified_at": "2015-02-05T09:19:50.972694+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "28457d7a448947dfa3819eaa53740af0"
+    "28457d7a448947dfa3819eaa53740af0", 
+    "26c614b80dab450791516b3d746cdc67"
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nA los ocho meses es posible que tu beb\u00e9 ya haya empezado a gatear o a ir de un lado a otro empuj\u00e1ndose sentado en el piso. Cuando tu beb\u00e9 es m\u00f3vil, empieza a caerse y golpearse. Esto es parte del crecimiento. A vos te toca disfrutar vi\u00e9ndolo explorar y descubrir sus l\u00edmites. Aprender\u00e1 por s\u00ed mismo en un ambiente seguro.\r\n\r\nTu beb\u00e9 est\u00e1 aprendiendo de los objetos agit\u00e1ndolos, golpe\u00e1ndolos, tir\u00e1ndolos al piso. Est\u00e1 aprendiendo qu\u00e9 puede hacerle a los objetos.\r\n\r\nEmpezar\u00e1 a mostrar inter\u00e9s en las cosas que us\u00e1s. Poco a poco empezar\u00e1 a usar objetos como debe ser. Podr\u00edas encontrarlo tratando de cepillarse el pelo o beber de una taza. \r\n\r\nAhora la vista de tu beb\u00e9 es mucho m\u00e1s clara. Puede ver casi tan bien como vos y reconocer a personas y objetos que est\u00e1n al otro lado del cuarto. Podr\u00eda ver un juguete en el otro lado del cuarto y tratar de gatear hacia \u00e9l. Sus ojos ya casi son del color que van a tener cuando sea m\u00e1s grande, aunque podr\u00edas notar peque\u00f1os cambios m\u00e1s adelante. \r\n\r\nPronto tu beb\u00e9 va a empezar a pararse y a caminar sosteni\u00e9ndose en las paredes y tom\u00e1ndose de los muebles. \r\n", 
@@ -24,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "8-meses-de-edad_Ar_spa", 
   "uuid": "e34765cbdb5d4649a7c6c94839211c74"
