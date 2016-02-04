@@ -5,18 +5,18 @@
   "title": "3 meses de edad", 
   "primary_category": "d622206adaaa4a8bb39deadf93223d71", 
   "created_at": "2015-01-28T10:27:29+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-02-05T09:18:26.591320+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-04T09:43:39.175233+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "5dc6173ea165459e9d5434de4c027169", 
-    "56f3217e328147c2949b0ed8c425a128"
+    "56f3217e328147c2949b0ed8c425a128", 
+    "5dc6173ea165459e9d5434de4c027169"
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nTu beb\u00e9 se est\u00e1 volviendo m\u00e1s flexible. Puede ser que ya le guste abrir y cerrar sus deditos, o aplaudir.\r\n\r\nSu sentido del humor tambi\u00e9n se est\u00e1 desarrollando. Hacerle cosquillas o darle un beso ruidoso en la pancita seguramente lo har\u00e1 re\u00edr.\r\n\r\nDesde que nace, a tu beb\u00e9 le encanta que lo toquen. Es importante para su crecimiento y su desarrollo. A esta edad le empezar\u00e1n a interesar diferentes texturas.\r\n\r\nA medida que tu beb\u00e9 empieza a comprender el mundo, simplemente jugar le ayuda a desarrollar su  cerebro. Al desarrollarse su cerebro, se vuelve m\u00e1s curioso. Tal vez juegue con un juguetito que pueda agarrar y agitar. Aprender\u00e1 sobre color, forma y tama\u00f1o. Tambi\u00e9n aprende del sonido que hace un juguete, y al sentir si es duro o suave.\r\n\r\nA esta edad, si est\u00e1 acostado boca abajo, podr\u00eda levantar la cabeza y los hombros apoy\u00e1ndose en sus bracitos. Incluso tal vez pueda girar cuando est\u00e1 boca abajo y ponerse boca arriba. Animalo a que lo haga moviendo un juguete hacia el lado al que por lo general se da vuelta. \u00a1Aplaudile y sonreile cuando se gire!\r\n", 
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 9, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "3-meses-de-edad_Ar_spa", 
   "uuid": "aa3aa221dc8545548f8d8a7142f9a47f"
